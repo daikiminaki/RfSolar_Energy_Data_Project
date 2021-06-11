@@ -6,9 +6,9 @@ Deep dive into global and domestic energy markets.
 My interest in energy started from the realization that energy has become a fundamental part of life and opportunity in the developed world. With the increasing need for the internet and opportunities new technologies bring, the lack of access to electricity that much of the world faces creates an ever increasing level of inequality between the haves and have nots. 
 
 This led to three main sets of questions: 
-1) Who and where are the people who lack access to electricity and are there fundamental reasons that make it difficult to provide them access?
+1) Who and where are the people who lack access to electricity? Are there fundamental reasons that make it difficult to provide them access?
 2) What systems (infrastructure, generation, etc) do developed countries use? What could the next generation of the grid and energy production system look like?
-3) Is there a system that could be transform outdated energy systems in developed countries that could scale and be implemented in areas without access?
+3) Is there a new system that could replace outdated energy systems in developed countries that could scale and be implemented in areas without access?
 
 
 ## What is RfSolar?
