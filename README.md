@@ -3,7 +3,7 @@ Deep dive into global and domestic energy markets.
 
 ## Why Energy?
 
-My interest in energy started from the realization that energy has become a fundamental part of life and opportunity in the developed world. With the increasing need for the internet and opportunities new technologies bring, the lack of access to electricity that much of the world faces creates an ever increasing level of inequality between the haves and have nots. 
+My interest in energy started from the realization that energy has become a fundamental part of life and opportunity in the developed world. With the increasing need for the internet and the opportunities new technologies bring, the lack of access to electricity that much of the world faces creates an ever increasing level of inequality between the haves and have nots. 
 
 This led to three main sets of questions: 
 1) Who and where are the people who lack access to electricity? Are there fundamental reasons that make it difficult to provide them access?
